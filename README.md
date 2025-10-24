@@ -289,7 +289,7 @@ docker run -v /path-to-source-dir:/src opensecurity/njsscan /src
 ### Build Locally
 
 ```
-docker build -t njsscan .
+docker build -t njsscan.
 docker run -v /path-to-source-dir:/src njsscan /src
 ```
 
